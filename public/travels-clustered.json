@@ -1,0 +1,1563 @@
+[
+  {
+    "title": "Oakland → Tokyo",
+    "timeline": [
+      {
+        "_id": 50174,
+        "category": "🚗",
+        "created": 1682094394005,
+        "lat": 37.89229,
+        "lon": -121.45909,
+        "notes": "BART to SFO",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART to airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682097994005,
+        "lat": 38.57529,
+        "lon": -122.19184,
+        "notes": "security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682099038005,
+        "lat": 38.22716,
+        "lon": -122.38457,
+        "notes": "takeoff",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 50176,
+        "category": "🚗",
+        "created": 1682138638005,
+        "lat": 35.30351,
+        "lon": 138.80023,
+        "notes": "landed in Tokyo",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Customs"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682142925513,
+        "lat": 35.07908,
+        "lon": 140.31722,
+        "notes": "done with customs ",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682144005513,
+        "lat": 34.75668,
+        "lon": 139.12336,
+        "notes": "taxi to hotel",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Riding taxi"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682147245513,
+        "lat": 34.73324,
+        "lon": 140.03803,
+        "notes": "arrive hotel",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Settled at hotel"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo → Taipei (Google Office)",
+    "timeline": [
+      {
+        "_id": 50132,
+        "category": "🚗",
+        "created": 1682300894185,
+        "lat": 36.26451,
+        "lon": 139.89599,
+        "notes": "leaving Tokyo ",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Driving to destination"
+      },
+      {
+        "_id": 50129,
+        "category": "🚗",
+        "created": 1682314288298,
+        "lat": 25.3897,
+        "lon": 121.75386,
+        "notes": "arrived in Taipei ",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 50128,
+        "category": "🚗",
+        "created": 1682315537243,
+        "lat": 25.56883,
+        "lon": 121.08694,
+        "notes": "leaving airport in taxi to Google office",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Riding taxi"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo → Home (via SFO)",
+    "timeline": [
+      {
+        "_id": 49949,
+        "category": "🚗",
+        "created": 1682918943368,
+        "lat": 35.7454,
+        "locationName": "Tsukiji Outer Market",
+        "lon": 139.99575,
+        "notes": "leaving for NRT",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Driving to airport"
+      },
+      {
+        "_id": 49948,
+        "category": "🚗",
+        "created": 1682924289516,
+        "lat": 35.91066,
+        "lon": 140.18791,
+        "notes": "arrived NRT airport",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "At airport"
+      },
+      {
+        "_id": 49944,
+        "category": "🚗",
+        "created": 1682927933245,
+        "lat": 34.97137,
+        "lon": 139.50234,
+        "notes": "on the plane",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49940,
+        "category": "🚗",
+        "created": 1682961577780,
+        "lat": 36.79076,
+        "lon": -122.56849,
+        "notes": "landed in SFO ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Customs and baggage claim"
+      },
+      {
+        "_id": 49939,
+        "category": "🚗",
+        "created": 1682964037967,
+        "lat": 37.32651,
+        "lon": -122.77038,
+        "notes": "out of customs and baggage claim",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 49938,
+        "category": "🚗",
+        "created": 1682968645951,
+        "lat": 37.49782,
+        "lon": -122.02209,
+        "notes": "arrived home",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Kauai",
+    "timeline": [
+      {
+        "_id": 50174,
+        "category": "🚗",
+        "created": 1684943002796,
+        "lat": 35.29198,
+        "lon": 139.2812,
+        "notes": "BART to OAK",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART to airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1684944730796,
+        "lat": 36.24063,
+        "lon": 140.33437,
+        "notes": "security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Security and waiting at gate"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1684945810796,
+        "lat": 35.79541,
+        "lon": 139.32239,
+        "notes": "takeoff",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684965250796,
+        "lat": 21.24366,
+        "lon": -159.54547,
+        "notes": "Landed in Kauai ",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Customs"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684968130796,
+        "lat": 21.91819,
+        "lon": -160.01996,
+        "notes": "through customs",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Rental car line"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684972450796,
+        "lat": 21.98589,
+        "lon": -159.98159,
+        "notes": "get rental car",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Driving"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684973202089,
+        "lat": 21.55414,
+        "lon": -158.63333,
+        "notes": "stop at grocery store",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Shopping at grocery store"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684976802089,
+        "lat": 21.50398,
+        "lon": -159.74016,
+        "notes": "leave grocery store",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Driving to Airbnb"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684978602089,
+        "lat": 21.77531,
+        "lon": -159.89607,
+        "notes": "arrived at Airbnb. unpacking",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Settling in"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684980042089,
+        "lat": 22.2815,
+        "lon": -159.97019,
+        "notes": "unpacked",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Settled in"
+      }
+    ]
+  },
+  {
+    "title": "Kauai → Oakland",
+    "timeline": [
+      {
+        "_id": 49433,
+        "category": "🚗",
+        "created": 1685827829640,
+        "lat": 22.81142,
+        "lon": -160.01068,
+        "notes": "arrived at airport",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "At airport"
+      },
+      {
+        "_id": 49432,
+        "category": "🚗",
+        "created": 1685828683106,
+        "lat": 21.17656,
+        "lon": -159.06641,
+        "notes": "dropped off rental car",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Dropping off rental car"
+      },
+      {
+        "_id": 49432,
+        "category": "🚗",
+        "created": 1685836340529,
+        "lat": 22.31149,
+        "lon": -159.51947,
+        "notes": "takeoff",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49428,
+        "category": "🚗",
+        "created": 1685855060529,
+        "lat": 37.3225,
+        "lon": -121.44829,
+        "notes": "landed in Oakland",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 49422,
+        "category": "🚗",
+        "created": 1685860571417,
+        "lat": 37.60237,
+        "lon": -121.46652,
+        "notes": "arrived home in Oakland!",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Nottingham (via London)",
+    "timeline": [
+      {
+        "_id": 48937,
+        "category": "🚗",
+        "created": 1689106851773,
+        "lat": 36.95143,
+        "lon": -123.04046,
+        "notes": "leaving for SFO in Uber",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Uber to airport"
+      },
+      {
+        "_id": 48937,
+        "category": "🚗",
+        "created": 1689110451773,
+        "lat": 38.6206,
+        "lon": -122.52356,
+        "notes": "Security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Security"
+      },
+      {
+        "_id": 48937,
+        "category": "🚗",
+        "created": 1689112611773,
+        "lat": 37.43303,
+        "lon": -123.10431,
+        "notes": "Finished Security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 48936,
+        "category": "🚗",
+        "created": 1689116136553,
+        "lat": 37.12347,
+        "lon": -122.00276,
+        "notes": "seated in the plane ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 48929,
+        "category": "🚗",
+        "created": 1689153628655,
+        "lat": 38.43812,
+        "lon": -122.79695,
+        "notes": "landed London",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 48928,
+        "category": "🚗",
+        "created": 1689156366584,
+        "lat": 52.10736,
+        "lon": -1.20397,
+        "notes": "in line at customs",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Customs and loading"
+      },
+      {
+        "_id": 48927,
+        "category": "🚗",
+        "created": 1689159903985,
+        "lat": 52.09847,
+        "lon": -0.23945,
+        "notes": "loaded up car",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Driving"
+      },
+      {
+        "_id": 48926,
+        "category": "🚗",
+        "created": 1689168937211,
+        "lat": 52.29596,
+        "lon": -0.95967,
+        "notes": "arrived Nottingham ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Arrived at destination"
+      }
+    ]
+  },
+  {
+    "title": "Nottingham → Gothenburg (via Manchester)",
+    "timeline": [
+      {
+        "_id": 48536,
+        "category": "🚗",
+        "created": 1692270951609,
+        "lat": 52.85729,
+        "lon": -0.8242,
+        "notes": "left Nottingham for Sweden",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Driving to destination"
+      },
+      {
+        "_id": 48535,
+        "category": "🚗",
+        "created": 1692276405361,
+        "lat": 52.13273,
+        "lon": -0.41185,
+        "notes": "train",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Riding the train"
+      },
+      {
+        "_id": 48532,
+        "category": "🚗",
+        "created": 1692283355518,
+        "lat": 53.3038,
+        "lon": -2.06155,
+        "notes": "train transfer",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Transferring trains"
+      },
+      {
+        "_id": 48530,
+        "category": "🚗",
+        "created": 1692284708789,
+        "lat": 52.93198,
+        "lon": -1.60825,
+        "notes": "arrived airport",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Security line"
+      },
+      {
+        "_id": 48529,
+        "category": "🚗",
+        "created": 1692289847458,
+        "lat": 53.90253,
+        "lon": -2.72295,
+        "notes": "finally made it through security and found a seat at the pub",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Heavy drinking at pub"
+      },
+      {
+        "_id": 48526,
+        "category": "🚗",
+        "created": 1692296236343,
+        "lat": 54.15797,
+        "lon": -2.10325,
+        "notes": "boarding started",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Waiting to board"
+      },
+      {
+        "_id": 48525,
+        "category": "🚗",
+        "created": 1692297248368,
+        "lat": 53.62812,
+        "lon": -3.10039,
+        "notes": "in seat in plane ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Taxiing"
+      },
+      {
+        "_id": 48524,
+        "category": "🚗",
+        "created": 1692298549790,
+        "lat": 52.91128,
+        "lon": -1.75965,
+        "notes": "taking off ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Flying"
+      },
+      {
+        "_id": 48522,
+        "category": "🚗",
+        "created": 1692304704920,
+        "lat": 57.34968,
+        "lon": 12.20418,
+        "notes": "landed in Gothenburg ",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 48521,
+        "category": "🚗",
+        "created": 1692307330524,
+        "lat": 56.95518,
+        "lon": 11.32377,
+        "notes": "through customs",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Taxi to Gottenburg"
+      },
+      {
+        "_id": 48520,
+        "category": "🚗",
+        "created": 1692309449912,
+        "lat": 56.9287,
+        "lon": 10.87314,
+        "notes": "arrived Chris's house ",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Settled in"
+      }
+    ]
+  },
+  {
+    "title": "Gothenburg → Forest Festival and Back",
+    "timeline": [
+      {
+        "_id": 48505,
+        "category": "🚗",
+        "created": 1692352220580,
+        "lat": 56.95618,
+        "lon": 12.03061,
+        "notes": "started packing car",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 48503,
+        "category": "🚗",
+        "created": 1692352626704,
+        "lat": 57.5461,
+        "lon": 11.12184,
+        "notes": "finished packing the car",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Ready to leave"
+      },
+      {
+        "_id": 48502,
+        "category": "🚗",
+        "created": 1692353355568,
+        "lat": 58.13706,
+        "lon": 11.05232,
+        "notes": "heading to the festival!",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Driving to festival"
+      },
+      {
+        "_id": 48489,
+        "category": "🚗",
+        "created": 1692378480887,
+        "lat": 60.10435,
+        "lon": 13.20985,
+        "notes": "arrived at the festival!",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "At the festival"
+      },
+      {
+        "_id": 48430,
+        "category": "🚗",
+        "created": 1692609619946,
+        "lat": 59.16822,
+        "lon": 12.46221,
+        "notes": "packing up",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 48427,
+        "category": "🚗",
+        "created": 1692614553760,
+        "lat": 60.48248,
+        "lon": 12.66477,
+        "notes": "leaving festival",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Driving home from festival"
+      },
+      {
+        "_id": 48424,
+        "category": "🚗",
+        "created": 1692637423053,
+        "lat": 58.49853,
+        "lon": 11.92399,
+        "notes": "arrived in Gothenburg ",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Settled in"
+      },
+      {
+        "_id": 48423,
+        "category": "🚗",
+        "created": 1692638555650,
+        "lat": 57.58295,
+        "lon": 12.24874,
+        "notes": "unpacked",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Settled in"
+      }
+    ]
+  },
+  {
+    "title": "Gothenburg → Nottingham (via Manchester)",
+    "timeline": [
+      {
+        "_id": 48414,
+        "category": "🚗",
+        "created": 1692690519372,
+        "lat": 56.98896,
+        "lon": 12.75035,
+        "notes": "leaving Chris's house for Nottingham ",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Driving to airport"
+      },
+      {
+        "_id": 48413,
+        "category": "🚗",
+        "created": 1692692116070,
+        "lat": 57.05176,
+        "lon": 11.94671,
+        "notes": "arrived airport ",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "At airport"
+      },
+      {
+        "_id": 48409,
+        "category": "🚗",
+        "created": 1692698748985,
+        "lat": 57.59751,
+        "lon": 12.11164,
+        "notes": "ryanair check in line opens",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Waiting for check-in to open"
+      },
+      {
+        "_id": 48408,
+        "category": "🚗",
+        "created": 1692699218002,
+        "lat": 57.2174,
+        "lon": 12.11677,
+        "notes": "started waiting in check in line",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Waiting in check-in line"
+      },
+      {
+        "_id": 48407,
+        "category": "🚗",
+        "created": 1692701593707,
+        "lat": 58.58203,
+        "lon": 12.78802,
+        "notes": "through security",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 48403,
+        "category": "🚗",
+        "created": 1692708069755,
+        "lat": 57.29812,
+        "lon": 12.87153,
+        "notes": "plane arrives and starts lining up for boarding",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Waiting to board"
+      },
+      {
+        "_id": 48402,
+        "category": "🚗",
+        "created": 1692709701198,
+        "lat": 58.2657,
+        "lon": 12.0117,
+        "notes": "boarded the plane",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Taxiing"
+      },
+      {
+        "_id": 48401,
+        "category": "🚗",
+        "created": 1692711012688,
+        "lat": 57.0814,
+        "lon": 13.07388,
+        "notes": "taking off",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 48400,
+        "category": "🚗",
+        "created": 1692717507629,
+        "lat": 57.0543,
+        "lon": 12.29833,
+        "notes": "landed in Manchester",
+        "timezoneId": "Europe/Stockholm",
+        "timezoneOffset": 7200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 48399,
+        "category": "🚗",
+        "created": 1692718208102,
+        "lat": 53.31031,
+        "lon": -1.76697,
+        "notes": "deplaned",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Customs"
+      },
+      {
+        "_id": 48398,
+        "category": "🚗",
+        "created": 1692718541506,
+        "lat": 53.05815,
+        "lon": -1.94854,
+        "notes": "through customs",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 48397,
+        "category": "🚗",
+        "created": 1692719560699,
+        "lat": 54.24754,
+        "lon": -3.16666,
+        "notes": "arrived train station",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Waiting for train"
+      },
+      {
+        "_id": 48396,
+        "category": "🚗",
+        "created": 1692721394540,
+        "lat": 53.26314,
+        "lon": -2.9416,
+        "notes": "boarded train. it was 20 minutes late",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Riding the train"
+      },
+      {
+        "_id": 48385,
+        "category": "🚗",
+        "created": 1692736231399,
+        "lat": 53.64057,
+        "lon": -0.66038,
+        "notes": "train arrived Nottingham ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Driving"
+      },
+      {
+        "_id": 48384,
+        "category": "🚗",
+        "created": 1692737688424,
+        "lat": 53.02177,
+        "lon": -0.75226,
+        "notes": "arrived home Nottingham ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "title": "Nottingham → Heathrow (Pre-flight Hotel)",
+    "timeline": [
+      {
+        "_id": 48239,
+        "category": "🚗",
+        "created": 1693905222957,
+        "lat": 53.22568,
+        "lon": -0.71651,
+        "notes": "started packing",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 48229,
+        "category": "🚗",
+        "created": 1693932056479,
+        "lat": 53.02337,
+        "lon": -1.19351,
+        "notes": "loading car",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 48228,
+        "category": "🚗",
+        "created": 1693934241947,
+        "lat": 53.24092,
+        "lon": -0.34565,
+        "notes": "leaving for Heathrow airport",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Driving to airport"
+      },
+      {
+        "_id": 48225,
+        "category": "🚗",
+        "created": 1693947446036,
+        "lat": 52.23195,
+        "lon": 0.12385,
+        "notes": "arrived at hotel",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Settled at hotel"
+      },
+      {
+        "_id": 48224,
+        "category": "🚗",
+        "created": 1693951745519,
+        "lat": 50.87947,
+        "lon": 0.25743,
+        "notes": "settled in to the hotel finally ",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Settled at hotel"
+      }
+    ]
+  },
+  {
+    "title": "London → Oakland (End of UK Adventure)",
+    "timeline": [
+      {
+        "_id": 48218,
+        "category": "🚗",
+        "created": 1693995005450,
+        "lat": 51.30992,
+        "lon": -1.02131,
+        "notes": "left hotel for airport",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Driving to airport"
+      },
+      {
+        "_id": 48217,
+        "category": "🚗",
+        "created": 1693996253173,
+        "lat": 51.26443,
+        "lon": -1.10576,
+        "notes": "arrived airport",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Security"
+      },
+      {
+        "_id": 48216,
+        "category": "🚗",
+        "created": 1693999006009,
+        "lat": 50.75617,
+        "lon": -1.28523,
+        "notes": "got through security",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 48214,
+        "category": "🚗",
+        "created": 1694004637324,
+        "lat": 51.59379,
+        "lon": -0.41801,
+        "notes": "boarded plane",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Taxiing"
+      },
+      {
+        "_id": 48213,
+        "category": "🚗",
+        "created": 1694005669823,
+        "lat": 52.17488,
+        "lon": -0.19514,
+        "notes": "taxiing",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Taxiing on runway"
+      },
+      {
+        "_id": 48212,
+        "category": "🚗",
+        "created": 1694006219653,
+        "lat": 51.38105,
+        "lon": 0.2435,
+        "notes": "takeoff",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Flying"
+      },
+      {
+        "_id": 48202,
+        "category": "🚗",
+        "created": 1694042768699,
+        "lat": 52.03683,
+        "lon": -0.65561,
+        "notes": "touchdown landed",
+        "timezoneId": "Europe/London",
+        "timezoneOffset": 3600000,
+        "label": "Walking across runway"
+      },
+      {
+        "_id": 48200,
+        "category": "🚗",
+        "created": 1694043138849,
+        "lat": 52.22888,
+        "lon": -0.73872,
+        "notes": "at gate",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Heading to customs"
+      },
+      {
+        "_id": 48199,
+        "category": "🚗",
+        "created": 1694043634198,
+        "lat": 52.21673,
+        "lon": -1.15495,
+        "notes": "deplane",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Customs"
+      },
+      {
+        "_id": 48198,
+        "category": "🚗",
+        "created": 1694044088160,
+        "lat": 52.15985,
+        "lon": 0.14397,
+        "notes": "passed through customs",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting for luggage"
+      },
+      {
+        "_id": 48197,
+        "category": "🚗",
+        "created": 1694044426801,
+        "lat": 51.91525,
+        "lon": -1.11012,
+        "notes": "picked up baggage claim",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 48196,
+        "category": "🚗",
+        "created": 1694045236516,
+        "lat": 37.99345,
+        "lon": -122.18134,
+        "notes": "waiting for Uber",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting for Uber"
+      },
+      {
+        "_id": 48194,
+        "category": "🚗",
+        "created": 1694045907016,
+        "lat": 37.47433,
+        "lon": -121.53118,
+        "notes": "got Uber",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding Uber home"
+      },
+      {
+        "_id": 48193,
+        "category": "🚗",
+        "created": 1694049154788,
+        "lat": 37.85085,
+        "lon": -121.81533,
+        "notes": "arrived home in Oakland!",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      },
+      {
+        "_id": 48188,
+        "category": "🚗",
+        "created": 1694049662611,
+        "lat": 37.12705,
+        "lon": -122.46358,
+        "notes": "unloaded car",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Settled in"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Henry Cowell Camping",
+    "timeline": [
+      {
+        "_id": 43969,
+        "category": "🚗",
+        "created": 1719862238965,
+        "lat": 38.24591,
+        "lon": -122.69524,
+        "notes": "leaving for camping",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Driving to campsite"
+      },
+      {
+        "_id": 43966,
+        "category": "🚗",
+        "created": 1719874231570,
+        "lat": 36.46426,
+        "locationName": "Henry Cowell campsite 92",
+        "lon": -122.208,
+        "notes": "arrived campsite ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "At campsite"
+      },
+      {
+        "_id": 43950,
+        "category": "🚗",
+        "created": 1719973135668,
+        "lat": 36.92619,
+        "lon": -122.86709,
+        "notes": "leaving campsite",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Driving home from campsite"
+      },
+      {
+        "_id": 43947,
+        "category": "🚗",
+        "created": 1719986425839,
+        "lat": 38.48279,
+        "lon": -122.63993,
+        "notes": "finished unpacking",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Settling in"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Point Reyes Camping",
+    "timeline": [
+      {
+        "_id": 43174,
+        "category": "🚗",
+        "created": 1724535836586,
+        "lat": 38.40558,
+        "lon": -122.43065,
+        "notes": "loading up car",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 43173,
+        "category": "🚗",
+        "created": 1724538103966,
+        "lat": 37.98022,
+        "lon": -122.46109,
+        "notes": "finished loading",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Ready to leave"
+      },
+      {
+        "_id": 43170,
+        "category": "🚗",
+        "created": 1724544136688,
+        "lat": 38.79437,
+        "lon": -123.38201,
+        "notes": "arrived camping",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "At campsite"
+      },
+      {
+        "_id": 43156,
+        "category": "🚗",
+        "created": 1724606111879,
+        "lat": 37.95372,
+        "lon": -123.02647,
+        "notes": "start packing up",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 43155,
+        "category": "🚗",
+        "created": 1724607919852,
+        "lat": 37.59561,
+        "lon": -123.1049,
+        "notes": "finished packing and loading",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Ready to leave"
+      },
+      {
+        "_id": 43142,
+        "category": "🚗",
+        "created": 1724633711840,
+        "lat": 37.10948,
+        "lon": -122.7563,
+        "notes": "arrived home",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Taipei",
+    "timeline": [
+      {
+        "created": 1729588400927,
+        "_id": 50174,
+        "category": "🚗",
+        "lat": 35.72395,
+        "lon": 140.45651,
+        "notes": "BART to SFO",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART to airport"
+      },
+      {
+        "created": 1729592360927,
+        "_id": 50175,
+        "category": "🚗",
+        "lat": 35.88053,
+        "lon": 140.53279,
+        "notes": "security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "created": 1729593980927,
+        "_id": 50175,
+        "category": "🚗",
+        "lat": 36.02079,
+        "lon": 138.86808,
+        "notes": "waiting to board",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting to board"
+      },
+      {
+        "created": 1729596860927,
+        "_id": 50175,
+        "category": "🚗",
+        "lat": 35.46059,
+        "lon": 139.61357,
+        "notes": "takeoff",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 42482,
+        "category": "🚗",
+        "created": 1729630340927,
+        "lat": 37.60538,
+        "lon": -122.54199,
+        "notes": "landed in Taipei ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 42481,
+        "category": "🚗",
+        "created": 1729634029833,
+        "lat": 25.73377,
+        "lon": 122.10367,
+        "notes": "out of customs",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 42480,
+        "category": "🚗",
+        "created": 1729635275436,
+        "lat": 25.49016,
+        "lon": 121.55533,
+        "notes": "arrived at hotel via taxi",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Settled at hotel"
+      }
+    ]
+  },
+  {
+    "title": "Taipei → Bangkok",
+    "timeline": [
+      {
+        "_id": 42356,
+        "category": "🚗",
+        "created": 1729997832690,
+        "lat": 25.06175,
+        "lon": 122.22665,
+        "notes": "train to airport",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Riding train to airport"
+      },
+      {
+        "_id": 42352,
+        "category": "🚗",
+        "created": 1730002406817,
+        "lat": 24.6892,
+        "lon": 121.69284,
+        "notes": "enter security",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 42351,
+        "category": "🚗",
+        "created": 1730006515804,
+        "lat": 25.74592,
+        "lon": 121.24198,
+        "notes": "boarded plane",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Flying"
+      },
+      {
+        "_id": 42350,
+        "category": "🚗",
+        "created": 1730020716370,
+        "lat": 13.8546,
+        "lon": 101.25211,
+        "notes": "landed Thailand",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 42349,
+        "category": "🚗",
+        "created": 1730021284783,
+        "lat": 14.48062,
+        "lon": 101.58047,
+        "notes": "docked",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 42348,
+        "category": "🚗",
+        "created": 1730024488849,
+        "lat": 14.015,
+        "lon": 101.33,
+        "notes": "on train",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Riding the train"
+      },
+      {
+        "_id": 42347,
+        "category": "🚗",
+        "created": 1730029822848,
+        "lat": 12.91476,
+        "lon": 101.20696,
+        "notes": "arrived airbnb",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Settled at Airbnb"
+      }
+    ]
+  },
+  {
+    "title": "Bangkok → Oakland (via Taipei)",
+    "timeline": [
+      {
+        "_id": 42279,
+        "category": "🚗",
+        "created": 1730274748363,
+        "lat": 12.96172,
+        "lon": 101.18274,
+        "notes": "taxi to the airport",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Taxi to airport"
+      },
+      {
+        "_id": 42278,
+        "category": "🚗",
+        "created": 1730279102257,
+        "lat": 14.58036,
+        "lon": 100.6252,
+        "notes": "arrived airport",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Security"
+      },
+      {
+        "_id": 42277,
+        "category": "🚗",
+        "created": 1730281345332,
+        "lat": 14.34734,
+        "lon": 101.41004,
+        "notes": "through security",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 42274,
+        "category": "🚗",
+        "created": 1730284685077,
+        "lat": 13.93975,
+        "lon": 100.54881,
+        "notes": "board the plane. delayed 35 min",
+        "timezoneId": "Asia/Bangkok",
+        "timezoneOffset": 25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 42272,
+        "category": "🚗",
+        "created": 1730299306229,
+        "lat": 25.3346,
+        "lon": 120.6015,
+        "notes": "landed in Taipei ",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Deplane and Security"
+      },
+      {
+        "_id": 42271,
+        "category": "🚗",
+        "created": 1730300583420,
+        "lat": 25.82427,
+        "lon": 121.43408,
+        "notes": "passed security in priority ",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 42270,
+        "category": "🚗",
+        "created": 1730301556503,
+        "lat": 25.15958,
+        "lon": 120.63365,
+        "notes": "boarded plane",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Flying"
+      },
+      {
+        "_id": 42268,
+        "category": "🚗",
+        "created": 1730341254448,
+        "lat": 38.41428,
+        "lon": -122.86957,
+        "notes": "landed in sfo",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 42267,
+        "category": "🚗",
+        "created": 1730342254189,
+        "lat": 36.94642,
+        "lon": -122.46849,
+        "notes": "deplane ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Customs"
+      },
+      {
+        "_id": 42266,
+        "category": "🚗",
+        "created": 1730343343875,
+        "lat": 38.24417,
+        "lon": -121.7029,
+        "notes": "on bart",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART home"
+      },
+      {
+        "_id": 42264,
+        "category": "🚗",
+        "created": 1730346245759,
+        "lat": 38.60602,
+        "lon": -122.18808,
+        "notes": "detrain Bart",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Arriving home by BART"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Orange County",
+    "timeline": [
+      {
+        "_id": 40329,
+        "category": "🚗",
+        "created": 1741652074796,
+        "lat": 38.10832,
+        "lon": -122.08479,
+        "notes": "leaving for LA ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Driving to destination"
+      },
+      {
+        "_id": 40326,
+        "category": "🚗",
+        "created": 1741658590164,
+        "lat": 37.29279,
+        "lon": -121.73787,
+        "notes": "boarded plane",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 40324,
+        "category": "🚗",
+        "created": 1741664120864,
+        "lat": 28.87661,
+        "lon": -81.10088,
+        "notes": "landed",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 40322,
+        "category": "🚗",
+        "created": 1741664995359,
+        "lat": 34.12945,
+        "lon": -118.59712,
+        "notes": "deplaned",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 40321,
+        "category": "🚗",
+        "created": 1741665399543,
+        "lat": 33.19499,
+        "lon": -118.49107,
+        "notes": "taxi",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding taxi"
+      },
+      {
+        "_id": 40318,
+        "category": "🚗",
+        "created": 1741666852191,
+        "lat": 34.14075,
+        "lon": -117.74353,
+        "notes": "arrived hotel",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Settled at hotel"
+      }
+    ]
+  }
+]
