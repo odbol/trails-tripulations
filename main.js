@@ -57,7 +57,7 @@ async function main() {
 
   function tipHtml(d) {
     return `
-      <strong>${fmtDate(new Date(d.created))}</strong>
+      <span class="date">${fmtDate(new Date(d.created))}</span>
       ${d.label ? `<div>${d.label}</div>` : ''}
       ${d.notes ? `<div>${d.notes}</div>` : ''}
       ${fmtLatLon(d) ? `<div class="coord">${fmtLatLon(d)}</div>` : ''}
@@ -213,11 +213,11 @@ async function main() {
 
       // Tooltip on segment hover
       addTooltipHandlers(seg, () => `
-        <strong>${fmtDate(new Date(d.created))}</strong>
+        <span class="date">${fmtDate(new Date(d.created))}</span>
         ${d.notes ? `<div>${d.notes}</div>` : ''}
         ${fmtLatLon(d) ? `<div class="coord">${fmtLatLon(d)}</div>` : ''}
-        <div class="dur">▸ ${d.label} ${durLabel} ▸</div>
-        <strong>${fmtDate(new Date(next.created))}</strong>
+        <strong class="dur">▸ ${d.label} ${durLabel} ▸</strong>
+        <span class="date">${fmtDate(new Date(next.created))}</span>
         ${next.notes ? `<div>${next.notes}</div>` : ''}
         ${fmtLatLon(next) ? `<div class="coord">${fmtLatLon(next)}</div>` : ''}
       `);
