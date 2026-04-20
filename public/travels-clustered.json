@@ -1,372 +1,5 @@
 [
   {
-    "title": "Oakland → Tokyo",
-    "timeline": [
-      {
-        "_id": 50174,
-        "category": "🚗",
-        "created": 1682094394005,
-        "lat": 37.89229,
-        "lon": -121.45909,
-        "notes": "BART to SFO",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Riding BART to airport"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1682097994005,
-        "lat": 38.57529,
-        "lon": -122.19184,
-        "notes": "security",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Waiting at gate"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1682099038005,
-        "lat": 38.22716,
-        "lon": -122.38457,
-        "notes": "takeoff",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Flying"
-      },
-      {
-        "_id": 50176,
-        "category": "🚗",
-        "created": 1682138638005,
-        "lat": 35.30351,
-        "lon": 138.80023,
-        "notes": "landed in Tokyo",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Customs"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1682142925513,
-        "lat": 35.07908,
-        "lon": 140.31722,
-        "notes": "done with customs ",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Leaving airport"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1682144005513,
-        "lat": 34.75668,
-        "lon": 139.12336,
-        "notes": "taxi to hotel",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Riding taxi"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1682147245513,
-        "lat": 34.73324,
-        "lon": 140.03803,
-        "notes": "arrive hotel",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Settled at hotel"
-      }
-    ]
-  },
-  {
-    "title": "Tokyo → Taipei (Google Office)",
-    "timeline": [
-      {
-        "_id": 50132,
-        "category": "🚗",
-        "created": 1682300894185,
-        "lat": 36.26451,
-        "lon": 139.89599,
-        "notes": "leaving Tokyo ",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Driving to destination"
-      },
-      {
-        "_id": 50129,
-        "category": "🚗",
-        "created": 1682314288298,
-        "lat": 25.3897,
-        "lon": 121.75386,
-        "notes": "arrived in Taipei ",
-        "timezoneId": "Asia/Taipei",
-        "timezoneOffset": 28800000,
-        "label": "Leaving airport"
-      },
-      {
-        "_id": 50128,
-        "category": "🚗",
-        "created": 1682315537243,
-        "lat": 25.56883,
-        "lon": 121.08694,
-        "notes": "leaving airport in taxi to Google office",
-        "timezoneId": "Asia/Taipei",
-        "timezoneOffset": 28800000,
-        "label": "Riding taxi"
-      }
-    ]
-  },
-  {
-    "title": "Tokyo → Home (via SFO)",
-    "timeline": [
-      {
-        "_id": 49949,
-        "category": "🚗",
-        "created": 1682918943368,
-        "lat": 35.7454,
-        "locationName": "Tsukiji Outer Market",
-        "lon": 139.99575,
-        "notes": "leaving for NRT",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Driving to airport"
-      },
-      {
-        "_id": 49948,
-        "category": "🚗",
-        "created": 1682924289516,
-        "lat": 35.91066,
-        "lon": 140.18791,
-        "notes": "arrived NRT airport",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "At airport"
-      },
-      {
-        "_id": 49944,
-        "category": "🚗",
-        "created": 1682927933245,
-        "lat": 34.97137,
-        "lon": 139.50234,
-        "notes": "on the plane",
-        "timezoneId": "Asia/Tokyo",
-        "timezoneOffset": 32400000,
-        "label": "Flying"
-      },
-      {
-        "_id": 49940,
-        "category": "🚗",
-        "created": 1682961577780,
-        "lat": 36.79076,
-        "lon": -122.56849,
-        "notes": "landed in SFO ",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Customs and baggage claim"
-      },
-      {
-        "_id": 49939,
-        "category": "🚗",
-        "created": 1682964037967,
-        "lat": 37.32651,
-        "lon": -122.77038,
-        "notes": "out of customs and baggage claim",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Leaving airport"
-      },
-      {
-        "_id": 49938,
-        "category": "🚗",
-        "created": 1682968645951,
-        "lat": 37.49782,
-        "lon": -122.02209,
-        "notes": "arrived home",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Home"
-      }
-    ]
-  },
-  {
-    "title": "Oakland → Kauai",
-    "timeline": [
-      {
-        "_id": 50174,
-        "category": "🚗",
-        "created": 1684943002796,
-        "lat": 35.29198,
-        "lon": 139.2812,
-        "notes": "BART to OAK",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Riding BART to airport"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1684944730796,
-        "lat": 36.24063,
-        "lon": 140.33437,
-        "notes": "security",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Security and waiting at gate"
-      },
-      {
-        "_id": 50175,
-        "category": "🚗",
-        "created": 1684945810796,
-        "lat": 35.79541,
-        "lon": 139.32239,
-        "notes": "takeoff",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Flying"
-      },
-      {
-        "_id": 49646,
-        "category": "🚗",
-        "created": 1684965250796,
-        "lat": 21.24366,
-        "lon": -159.54547,
-        "notes": "Landed in Kauai ",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Customs"
-      },
-      {
-        "_id": 49646,
-        "category": "🚗",
-        "created": 1684968130796,
-        "lat": 21.91819,
-        "lon": -160.01996,
-        "notes": "through customs",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Rental car line"
-      },
-      {
-        "_id": 49646,
-        "category": "🚗",
-        "created": 1684972450796,
-        "lat": 21.98589,
-        "lon": -159.98159,
-        "notes": "get rental car",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Driving"
-      },
-      {
-        "_id": 49641,
-        "category": "🚗",
-        "created": 1684973202089,
-        "lat": 21.55414,
-        "lon": -158.63333,
-        "notes": "stop at grocery store",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Shopping at grocery store"
-      },
-      {
-        "_id": 49641,
-        "category": "🚗",
-        "created": 1684976802089,
-        "lat": 21.50398,
-        "lon": -159.74016,
-        "notes": "leave grocery store",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Driving to Airbnb"
-      },
-      {
-        "_id": 49641,
-        "category": "🚗",
-        "created": 1684978602089,
-        "lat": 21.77531,
-        "lon": -159.89607,
-        "notes": "arrived at Airbnb. unpacking",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Settling in"
-      },
-      {
-        "_id": 49641,
-        "category": "🚗",
-        "created": 1684980042089,
-        "lat": 22.2815,
-        "lon": -159.97019,
-        "notes": "unpacked",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Settled in"
-      }
-    ]
-  },
-  {
-    "title": "Kauai → Oakland",
-    "timeline": [
-      {
-        "_id": 49433,
-        "category": "🚗",
-        "created": 1685827829640,
-        "lat": 22.81142,
-        "lon": -160.01068,
-        "notes": "arrived at airport",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "At airport"
-      },
-      {
-        "_id": 49432,
-        "category": "🚗",
-        "created": 1685828683106,
-        "lat": 21.17656,
-        "lon": -159.06641,
-        "notes": "dropped off rental car",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Dropping off rental car"
-      },
-      {
-        "_id": 49432,
-        "category": "🚗",
-        "created": 1685836340529,
-        "lat": 22.31149,
-        "lon": -159.51947,
-        "notes": "takeoff",
-        "timezoneId": "Pacific/Honolulu",
-        "timezoneOffset": -36000000,
-        "label": "Flying"
-      },
-      {
-        "_id": 49428,
-        "category": "🚗",
-        "created": 1685855060529,
-        "lat": 37.3225,
-        "lon": -121.44829,
-        "notes": "landed in Oakland",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Getting off the plane"
-      },
-      {
-        "_id": 49422,
-        "category": "🚗",
-        "created": 1685860571417,
-        "lat": 37.60237,
-        "lon": -121.46652,
-        "notes": "arrived home in Oakland!",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Home"
-      }
-    ]
-  },
-  {
     "title": "Oakland → Nottingham (via London)",
     "timeline": [
       {
@@ -953,7 +586,7 @@
         "notes": "boarded plane",
         "timezoneId": "Europe/London",
         "timezoneOffset": 3600000,
-        "label": "Taxiing"
+        "label": "Sitting in plane"
       },
       {
         "_id": 48213,
@@ -1063,7 +696,7 @@
         "notes": "arrived home in Oakland!",
         "timezoneId": "America/Los_Angeles",
         "timezoneOffset": -25200000,
-        "label": "Home"
+        "label": "Unloading"
       },
       {
         "_id": 48188,
@@ -1075,127 +708,6 @@
         "timezoneId": "America/Los_Angeles",
         "timezoneOffset": -25200000,
         "label": "Settled in"
-      }
-    ]
-  },
-  {
-    "title": "Oakland → Henry Cowell Camping",
-    "timeline": [
-      {
-        "_id": 43969,
-        "category": "🚗",
-        "created": 1719862238965,
-        "lat": 38.24591,
-        "lon": -122.69524,
-        "notes": "leaving for camping",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Driving to campsite"
-      },
-      {
-        "_id": 43966,
-        "category": "🚗",
-        "created": 1719874231570,
-        "lat": 36.46426,
-        "locationName": "Henry Cowell campsite 92",
-        "lon": -122.208,
-        "notes": "arrived campsite ",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "At campsite"
-      },
-      {
-        "_id": 43950,
-        "category": "🚗",
-        "created": 1719973135668,
-        "lat": 36.92619,
-        "lon": -122.86709,
-        "notes": "leaving campsite",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Driving home from campsite"
-      },
-      {
-        "_id": 43947,
-        "category": "🚗",
-        "created": 1719986425839,
-        "lat": 38.48279,
-        "lon": -122.63993,
-        "notes": "finished unpacking",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Settling in"
-      }
-    ]
-  },
-  {
-    "title": "Oakland → Point Reyes Camping",
-    "timeline": [
-      {
-        "_id": 43174,
-        "category": "🚗",
-        "created": 1724535836586,
-        "lat": 38.40558,
-        "lon": -122.43065,
-        "notes": "loading up car",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Packing up"
-      },
-      {
-        "_id": 43173,
-        "category": "🚗",
-        "created": 1724538103966,
-        "lat": 37.98022,
-        "lon": -122.46109,
-        "notes": "finished loading",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Ready to leave"
-      },
-      {
-        "_id": 43170,
-        "category": "🚗",
-        "created": 1724544136688,
-        "lat": 38.79437,
-        "lon": -123.38201,
-        "notes": "arrived camping",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "At campsite"
-      },
-      {
-        "_id": 43156,
-        "category": "🚗",
-        "created": 1724606111879,
-        "lat": 37.95372,
-        "lon": -123.02647,
-        "notes": "start packing up",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Packing up"
-      },
-      {
-        "_id": 43155,
-        "category": "🚗",
-        "created": 1724607919852,
-        "lat": 37.59561,
-        "lon": -123.1049,
-        "notes": "finished packing and loading",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Ready to leave"
-      },
-      {
-        "_id": 43142,
-        "category": "🚗",
-        "created": 1724633711840,
-        "lat": 37.10948,
-        "lon": -122.7563,
-        "notes": "arrived home",
-        "timezoneId": "America/Los_Angeles",
-        "timezoneOffset": -25200000,
-        "label": "Home"
       }
     ]
   },
@@ -1489,6 +1001,499 @@
       }
     ]
   },
+
+
+
+  {
+    "title": "Oakland → Tokyo",
+    "timeline": [
+      {
+        "_id": 50174,
+        "category": "🚗",
+        "created": 1682094394005,
+        "lat": 37.89229,
+        "lon": -121.45909,
+        "notes": "BART to SFO",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART to airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682097994005,
+        "lat": 38.57529,
+        "lon": -122.19184,
+        "notes": "security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Waiting at gate"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682099038005,
+        "lat": 38.22716,
+        "lon": -122.38457,
+        "notes": "takeoff",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 50176,
+        "category": "🚗",
+        "created": 1682138638005,
+        "lat": 35.30351,
+        "lon": 138.80023,
+        "notes": "landed in Tokyo",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Customs"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682142925513,
+        "lat": 35.07908,
+        "lon": 140.31722,
+        "notes": "done with customs ",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682144005513,
+        "lat": 34.75668,
+        "lon": 139.12336,
+        "notes": "taxi to hotel",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Riding taxi"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1682147245513,
+        "lat": 34.73324,
+        "lon": 140.03803,
+        "notes": "arrive hotel",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Settled at hotel"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo → Taipei (Google Office)",
+    "timeline": [
+      {
+        "_id": 50132,
+        "category": "🚗",
+        "created": 1682300894185,
+        "lat": 36.26451,
+        "lon": 139.89599,
+        "notes": "leaving Tokyo ",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Driving to destination"
+      },
+      {
+        "_id": 50129,
+        "category": "🚗",
+        "created": 1682314288298,
+        "lat": 25.3897,
+        "lon": 121.75386,
+        "notes": "arrived in Taipei ",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 50128,
+        "category": "🚗",
+        "created": 1682315537243,
+        "lat": 25.56883,
+        "lon": 121.08694,
+        "notes": "leaving airport in taxi to Google office",
+        "timezoneId": "Asia/Taipei",
+        "timezoneOffset": 28800000,
+        "label": "Riding taxi"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo → Home (via SFO)",
+    "timeline": [
+      {
+        "_id": 49949,
+        "category": "🚗",
+        "created": 1682918943368,
+        "lat": 35.7454,
+        "locationName": "Tsukiji Outer Market",
+        "lon": 139.99575,
+        "notes": "leaving for NRT",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Driving to airport"
+      },
+      {
+        "_id": 49948,
+        "category": "🚗",
+        "created": 1682924289516,
+        "lat": 35.91066,
+        "lon": 140.18791,
+        "notes": "arrived NRT airport",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "At airport"
+      },
+      {
+        "_id": 49944,
+        "category": "🚗",
+        "created": 1682927933245,
+        "lat": 34.97137,
+        "lon": 139.50234,
+        "notes": "on the plane",
+        "timezoneId": "Asia/Tokyo",
+        "timezoneOffset": 32400000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49940,
+        "category": "🚗",
+        "created": 1682961577780,
+        "lat": 36.79076,
+        "lon": -122.56849,
+        "notes": "landed in SFO ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Customs and baggage claim"
+      },
+      {
+        "_id": 49939,
+        "category": "🚗",
+        "created": 1682964037967,
+        "lat": 37.32651,
+        "lon": -122.77038,
+        "notes": "out of customs and baggage claim",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Leaving airport"
+      },
+      {
+        "_id": 49938,
+        "category": "🚗",
+        "created": 1682968645951,
+        "lat": 37.49782,
+        "lon": -122.02209,
+        "notes": "arrived home",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Kauai",
+    "timeline": [
+      {
+        "_id": 50174,
+        "category": "🚗",
+        "created": 1684943002796,
+        "lat": 35.29198,
+        "lon": 139.2812,
+        "notes": "BART to OAK",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Riding BART to airport"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1684944730796,
+        "lat": 36.24063,
+        "lon": 140.33437,
+        "notes": "security",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Security and waiting at gate"
+      },
+      {
+        "_id": 50175,
+        "category": "🚗",
+        "created": 1684945810796,
+        "lat": 35.79541,
+        "lon": 139.32239,
+        "notes": "takeoff",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684965250796,
+        "lat": 21.24366,
+        "lon": -159.54547,
+        "notes": "Landed in Kauai ",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Customs"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684968130796,
+        "lat": 21.91819,
+        "lon": -160.01996,
+        "notes": "through customs",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Rental car line"
+      },
+      {
+        "_id": 49646,
+        "category": "🚗",
+        "created": 1684972450796,
+        "lat": 21.98589,
+        "lon": -159.98159,
+        "notes": "get rental car",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Driving"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684973202089,
+        "lat": 21.55414,
+        "lon": -158.63333,
+        "notes": "stop at grocery store",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Shopping at grocery store"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684976802089,
+        "lat": 21.50398,
+        "lon": -159.74016,
+        "notes": "leave grocery store",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Driving to Airbnb"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684978602089,
+        "lat": 21.77531,
+        "lon": -159.89607,
+        "notes": "arrived at Airbnb. unpacking",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Settling in"
+      },
+      {
+        "_id": 49641,
+        "category": "🚗",
+        "created": 1684980042089,
+        "lat": 22.2815,
+        "lon": -159.97019,
+        "notes": "unpacked",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Settled in"
+      }
+    ]
+  },
+  {
+    "title": "Kauai → Oakland",
+    "timeline": [
+      {
+        "_id": 49433,
+        "category": "🚗",
+        "created": 1685827829640,
+        "lat": 22.81142,
+        "lon": -160.01068,
+        "notes": "arrived at airport",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Dropping off rental car"
+      },
+      {
+        "_id": 49432,
+        "category": "🚗",
+        "created": 1685828683106,
+        "lat": 21.17656,
+        "lon": -159.06641,
+        "notes": "dropped off rental car",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Security and waiting at gate"
+      },
+      {
+        "_id": 49432,
+        "category": "🚗",
+        "created": 1685836340529,
+        "lat": 22.31149,
+        "lon": -159.51947,
+        "notes": "takeoff",
+        "timezoneId": "Pacific/Honolulu",
+        "timezoneOffset": -36000000,
+        "label": "Flying"
+      },
+      {
+        "_id": 49428,
+        "category": "🚗",
+        "created": 1685855060529,
+        "lat": 37.3225,
+        "lon": -121.44829,
+        "notes": "landed in Oakland",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Getting off the plane"
+      },
+      {
+        "_id": 49422,
+        "category": "🚗",
+        "created": 1685860571417,
+        "lat": 37.60237,
+        "lon": -121.46652,
+        "notes": "arrived home in Oakland!",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+
+  {
+    "title": "Oakland → Henry Cowell Camping",
+    "timeline": [
+      {
+        "_id": 43969,
+        "category": "🚗",
+        "created": 1719862238965,
+        "lat": 38.24591,
+        "lon": -122.69524,
+        "notes": "leaving for camping",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Driving to campsite"
+      },
+      {
+        "_id": 43966,
+        "category": "🚗",
+        "created": 1719874231570,
+        "lat": 36.46426,
+        "locationName": "Henry Cowell campsite 92",
+        "lon": -122.208,
+        "notes": "arrived campsite ",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "At campsite"
+      },
+      {
+        "_id": 43950,
+        "category": "🚗",
+        "created": 1719973135668,
+        "lat": 36.92619,
+        "lon": -122.86709,
+        "notes": "leaving campsite",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Driving home from campsite"
+      },
+      {
+        "_id": 43947,
+        "category": "🚗",
+        "created": 1719986425839,
+        "lat": 38.48279,
+        "lon": -122.63993,
+        "notes": "finished unpacking",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Settling in"
+      }
+    ]
+  },
+  {
+    "title": "Oakland → Point Reyes Camping",
+    "timeline": [
+      {
+        "_id": 43174,
+        "category": "🚗",
+        "created": 1724535836586,
+        "lat": 38.40558,
+        "lon": -122.43065,
+        "notes": "loading up car",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 43173,
+        "category": "🚗",
+        "created": 1724538103966,
+        "lat": 37.98022,
+        "lon": -122.46109,
+        "notes": "finished loading",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Ready to leave"
+      },
+      {
+        "_id": 43170,
+        "category": "🚗",
+        "created": 1724544136688,
+        "lat": 38.79437,
+        "lon": -123.38201,
+        "notes": "arrived camping",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "At campsite"
+      },
+      {
+        "_id": 43156,
+        "category": "🚗",
+        "created": 1724606111879,
+        "lat": 37.95372,
+        "lon": -123.02647,
+        "notes": "start packing up",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Packing up"
+      },
+      {
+        "_id": 43155,
+        "category": "🚗",
+        "created": 1724607919852,
+        "lat": 37.59561,
+        "lon": -123.1049,
+        "notes": "finished packing and loading",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Ready to leave"
+      },
+      {
+        "_id": 43142,
+        "category": "🚗",
+        "created": 1724633711840,
+        "lat": 37.10948,
+        "lon": -122.7563,
+        "notes": "arrived home",
+        "timezoneId": "America/Los_Angeles",
+        "timezoneOffset": -25200000,
+        "label": "Home"
+      }
+    ]
+  },
+
   {
     "title": "Oakland → Orange County",
     "timeline": [
